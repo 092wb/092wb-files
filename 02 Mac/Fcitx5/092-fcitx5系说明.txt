@@ -1,0 +1,25 @@
+﻿MacOS >= 13.0
+
+说明：
+  - 带拆分提示（默认关闭）
+  - Mac上安装提示「未验证的开发者xxx」 请到「系统偏好设置」->「隐私与安全」中放行
+  - 超集字不显示？
+  - 安装宋天超集字体或天珩字体
+
+更改竖排：「附加组件配置」->「WebPanel ⚙ 」->「版式」->「布局」->「Vertical」
+
+输入法中输入 	aid 查看功能：
+拆分显隐  	Ctrl + Shift + H
+拼音      	Ctrl + Shift + J
+Emoji表情 	Ctrl + Shift + M
+字集切换  	Ctrl + Shift + U
+繁简切换  	Ctrl + Shift + F
+临时拼音  	z键引导临时拼音
+重复历史  	z键兼有重复历史
+大写金额  	任意大写字母引导+数字
+符号      	zi引导
+时间      	date
+全角      	Shift + Space
+英文标点  	Ctrl + .
+帮助      	aid
+

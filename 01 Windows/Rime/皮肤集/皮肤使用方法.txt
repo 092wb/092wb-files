@@ -1,0 +1,6 @@
+﻿下载对应的 weasel.custom.yaml 复制
+Rime 图标右键 -> 用户文件夹 -> 粘贴并替换
+
+
+
+收集源：https://github.com/rime/weasel/wiki

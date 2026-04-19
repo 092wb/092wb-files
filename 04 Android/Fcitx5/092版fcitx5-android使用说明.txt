@@ -1,0 +1,20 @@
+﻿使用：
+先安装仓库的 fcitx5-android.Apk 再安装 092插件.Apk
+1. 安装092-rime插件
+以下添加方式因版本不同可能有所变化，请自行参考
+2. fcitx5 设置界面 --「输入法」-- 右下角「+」 --「中州韵」
+3. 输入法（🌐）选择中州韵。左上角 “>”  “···” 重载配置
+
+功能：跟rime系一样，输入aid查看功能
+
+外接键盘可以用快捷键：
+繁简切换		Ctrl + Shift + F
+拆分显隐		Ctrl + Shift + H
+字集切换		Ctrl + Shift + U
+Emoji表情		Ctrl + Shift + M
+拼音显隐		Ctrl + Shift + J
+
+
+
+
+
