@@ -1,4 +1,7 @@
-﻿092wb-trime-20250907.Apk
+﻿20260425
+ - 同文修复 opencc emoji 滤镜
+
+092wb-trime-20250907.Apk
  - 修复 shift 背景问题
 
 092wb-trime-20250907.Apk
